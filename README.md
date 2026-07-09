@@ -1,7 +1,7 @@
 <img src = "https://github.com/Sonali301/Sonali301/blob/main/Banner.jpeg">
 
 <h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Aspiring AI and Full Stack developer</h3>
 
 <img align="right" alt="coding" width="400" src = "https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75">
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sonalikumari30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalikumari30" height="30" width="40" /></a>
 <a href="https://github.com/Sonali301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sonali301" height="30" width="40" /></a>
-<a href="https://instagram.com/sonali_prasad30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonali_prasad30" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
