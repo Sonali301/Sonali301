@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src = "https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75">
 
-- I’m currently learning **MERN Stack best practices, API security.**
+- I’m currently enhancing my skills in **AI and Full stack Developer.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/sonalikumari30](www.linkedin.com/in/sonalikumari30) and https://github.com/Sonali301
 
