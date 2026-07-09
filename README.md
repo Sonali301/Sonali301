@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/sonalikumari30](www.linkedin.com/in/sonalikumari30) and https://github.com/Sonali301
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
-
 - 📫 How to reach me **sonalikumari7817@gmail.com**
 
 - ⚡ Fun fact : **I treat console.log() like my therapist 😅**
