@@ -219,7 +219,7 @@ Autonomous incident recovery platform with **FastAPI, React.js, LangGraph, Groq 
 - Real-time observability dashboard with WebSockets
 
 🔗 **GitHub:** https://github.com/Sonali301/AURA  
-🌐 **Live Demo:** https://aura-recovery-agent.onrender.com
+🌐 **Live Demo:** https://aura-r1m5.onrender.com
 
 ---
 
