@@ -21,6 +21,7 @@
 
 ---
 
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -32,8 +33,11 @@
   </a>
 </p>
 
-📧 **Email:** `sonalikumari7817@gmail.com`  
-📍 **Location:** Kolkata, West Bengal, India
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sonali30
+- 💻 **GitHub:** https://github.com/Sonali301
+- 📧 **Email:** sonalikumari7817@gmail.com
+- 📱 **Phone:** +91 7061666862
+- 📍 **Location:** Kolkata, West Bengal, India
 
 ---
 
