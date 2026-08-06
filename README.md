@@ -227,7 +227,7 @@ Autonomous incident recovery platform with **FastAPI, React.js, LangGraph, Groq 
 
 **B.Tech in Information Technology**  
 Techno International New Town, MAKAUT (2023–2027)  
-**CGPA:** 7.53 / 10
+**CGPA:** 7.612 / 10
 
 ---
 
