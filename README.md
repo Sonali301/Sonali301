@@ -135,13 +135,25 @@
 
 ---
 
+
 ### Core Computer Science
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="DSA" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="OOP" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="DBMS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Operating Systems" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Computer Networks" width="40" height="40"/>
+  <a href="https://www.geeksforgeeks.org/data-structures" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="DSA" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOP" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="DBMS" width="40" height="40"/>
+  </a>
+  <a href="https://www.kernel.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Operating Systems" width="40" height="40"/>
+  </a>
+  <a href="https://www.cisco.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Computer Networks" width="40" height="40"/>
+  </a>
 </p>
 
 **DSA • OOP • DBMS • Operating Systems • Computer Networks**
