@@ -1,29 +1,142 @@
-<img src = "https://github.com/Sonali301/Sonali301/blob/main/Banner.jpeg">
-
-<h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
-<h3 align="center">Aspiring AI and Full Stack developer</h3>
-
-<img align="right" alt="coding" width="400" src = "https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75">
-
-- I’m currently enhancing my skills in **AI and Full stack Developer.**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sonalikumari30](www.linkedin.com/in/sonalikumari30) and https://github.com/Sonali301
-
-- 📫 How to reach me **sonalikumari7817@gmail.com**
-
-- ⚡ Fun fact : **I treat console.log() like my therapist 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonalikumari30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonalikumari30" height="30" width="40" /></a>
-<a href="https://github.com/Sonali301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sonali301" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://github.com/Sonali301/Sonali301/blob/main/Banner.jpeg" alt="Banner" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
+<h3 align="center">Aspiring Software Engineer | AI & Full Stack Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali301&show_icons=true&locale=en&layout=compact" alt="sonali301" /></p>
+<p align="center">
+  B.Tech in Information Technology (2023–2027) | Techno International New Town, MAKAUT
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali301&show_icons=true&locale=en" alt="sonali301" /></p>
+---
 
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Information Technology** at **Techno International New Town (MAKAUT)**.
+- 🤖 Passionate about building **AI-powered web applications** using **Python, React.js, FastAPI, LangGraph, Pinecone, and Groq**.
+- 💡 Strong foundation in **Software Development, DSA, DBMS, Operating Systems, Computer Networks, and Problem Solving**.
+- 🌱 Currently learning advanced **Agentic AI, RAG systems, and scalable backend architectures**.
+- 🏆 Finalist at **Smart Bengal Hackathon 2025**.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sonali30" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/Sonali301" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+  </a>
+</p>
+
+📧 **Email:** `sonalikumari7817@gmail.com`  
+📍 **Location:** Kolkata, West Bengal, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
+### Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+</p>
+
+**Also experienced with:** LangChain, LangGraph, RAG, Pinecone, Prompt Engineering, MediaPipe, Librosa, Groq (Llama 3.1), FastAPI.
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 AutoOrator AI
+AI-powered public speaking analysis platform.
+
+- 3-tier architecture using **React.js, Node.js, and FastAPI**.
+- Multimodal ML pipeline with **PyTorch, DeepFace, MediaPipe, and Librosa**.
+- Multi-agent **RAG system** using **LangGraph and Pinecone**.
+- Deployed on **Render** and **Hugging Face**.
+
+🔗 **GitHub:** https://github.com/Sonali301
+
+---
+
+### 🔹 AURA (Autonomous Recovery Agent)
+Autonomous incident recovery and self-healing platform.
+
+- Built with **FastAPI** and **React.js**.
+- Multi-agent AI pipeline using **LangGraph, Groq (Llama 3.1), and Pinecone**.
+- Live observability dashboard with **WebSockets**.
+- Deployed on **Render**.
+
+🔗 **GitHub:** https://github.com/Sonali301
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+Techno International New Town, MAKAUT (2023–2027)  
+**CGPA:** 7.53 / 10
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Finalist – Smart Bengal Hackathon 2025**
+- 🤝 Collaborated in a team to develop an **AI-powered solution**.
+
+---
+
+## 📜 Certifications
+
+- Full Stack Web Development – **Apna College**
+- Data Structures & Algorithms in Java – **Apna College**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonali301&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali301&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonali301&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
