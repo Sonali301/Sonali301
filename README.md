@@ -140,19 +140,23 @@
 
 <p align="left">
   <a href="https://www.geeksforgeeks.org/data-structures" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="DSA" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="DSA" width="40" height="40"/>
   </a>
+
   <a href="https://www.oracle.com/java" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOP" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="OOP" width="40" height="40"/>
   </a>
+
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="DBMS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DBMS" width="40" height="40"/>
   </a>
+
   <a href="https://www.kernel.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Operating Systems" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Operating Systems" width="40" height="40"/>
   </a>
-  <a href="https://www.cisco.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Computer Networks" width="40" height="40"/>
+
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Computer Networks" width="40" height="40"/>
   </a>
 </p>
 
