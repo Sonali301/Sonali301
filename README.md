@@ -198,26 +198,28 @@
 ## 💼 Featured Projects
 
 ### 🔹 AutoOrator AI
-AI-powered public speaking analysis platform.
 
-- 3-tier architecture using **React.js, Node.js, and FastAPI**.
-- Multimodal ML pipeline with **PyTorch, DeepFace, MediaPipe, and Librosa**.
-- Multi-agent **RAG system** using **LangGraph and Pinecone**.
-- Deployed on **Render** and **Hugging Face**.
+AI-powered public speaking analysis platform built with **React.js, Node.js, FastAPI, LangGraph, Pinecone, and Groq**.
 
-🔗 **GitHub:** https://github.com/Sonali301
+- Multimodal analysis using **PyTorch, DeepFace, MediaPipe, and Librosa**
+- Multi-agent **RAG pipeline** for personalized coaching
+- Deployed on **Render** and **Hugging Face**
+
+🔗 **GitHub:** https://github.com/Sonali301/AutoOrator-AI  
+🌐 **Live Demo:** https://autoorator-ai.onrender.com
 
 ---
 
 ### 🔹 AURA (Autonomous Recovery Agent)
-Autonomous incident recovery and self-healing platform.
 
-- Built with **FastAPI** and **React.js**.
-- Multi-agent AI pipeline using **LangGraph, Groq (Llama 3.1), and Pinecone**.
-- Live observability dashboard with **WebSockets**.
-- Deployed on **Render**.
+Autonomous incident recovery platform with **FastAPI, React.js, LangGraph, Groq (Llama 3.1), and Pinecone**.
 
-🔗 **GitHub:** https://github.com/Sonali301
+- Self-healing incident workflow
+- AI safety validation before execution
+- Real-time observability dashboard with WebSockets
+
+🔗 **GitHub:** https://github.com/Sonali301/AURA  
+🌐 **Live Demo:** https://aura-recovery-agent.onrender.com
 
 ---
 
