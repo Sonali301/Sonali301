@@ -122,18 +122,7 @@ Techno International New Town, MAKAUT (2023–2027)
 - Full Stack Web Development – **Apna College**
 - Data Structures & Algorithms in Java – **Apna College**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonali301&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali301&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonali301&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
