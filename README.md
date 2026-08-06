@@ -107,7 +107,7 @@
   </a>
 
   <a href="https://www.pinecone.io" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" alt="Pinecone" width="40" height="40"/>
+    <img src="https://www.pinecone.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpinecone-logo.5b3e4c3a.png&w=64&q=75" alt="Pinecone" width="40" height="40"/>
   </a>
 </p>
 
@@ -135,7 +135,7 @@
   </a>
 
   <a href="https://groq.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/groq.svg" alt="Groq" width="40" height="40"/>
+    <img src="https://groq.com/wp-content/uploads/2024/03/Groq-Logo-Black.png" alt="Groq" width="40" height="40"/>
   </a>
 </p>
 
