@@ -96,15 +96,18 @@
 ---
 
 ### Databases
+
 <p align="left">
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
+
   <a href="https://www.pinecone.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/pinecone/14B8A6" alt="Pinecone" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" alt="Pinecone" width="40" height="40"/>
   </a>
 </p>
 
@@ -113,21 +116,26 @@
 ---
 
 ### Machine Learning & AI
+
 <p align="left">
   <a href="https://pytorch.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
+
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
+
   <a href="https://www.langchain.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </a>
+
   <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangGraph" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="40" height="40"/>
   </a>
+
   <a href="https://groq.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/412991" alt="Groq" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/groq.svg" alt="Groq" width="40" height="40"/>
   </a>
 </p>
 
